@@ -11,5 +11,5 @@ def add(a,b):
   return a + b
 
 
-def multiply(a,b):
+def multiple(a,b):
   return 10 * a * b
