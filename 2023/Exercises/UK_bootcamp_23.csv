@@ -1,0 +1,234 @@
+First_Name,Last_Name,Major,Education,Is_researcher,Is_programmer
+Molly,Taghaddosi,"Computer Science, Psychology",Graduate,No,"Yes - If yes, which language(s)"
+Nicholas,Vertacnik,Chemical Engineering,Graduate,No,No
+Isfandiyar,O Yusuf,Finance,Undergraduate,No,"Yes - If yes, which language(s)"
+John,Rockefeller,ICT,Graduate,No,"Yes - If yes, which language(s)"
+Corrine,Bracken,Pre-Biomedical Engineering,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Franklin,Passarelli,Dentistry,Undergraduate,No,No
+Jonathan,Majumder,na,Undergraduate,No,No
+Lara,Florea,Education,Graduate,No,No
+Kevin,Doty,none,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Rokeya,Donahue,Neuroscience,Graduate,No,"Yes - If yes, which language(s)"
+Madison,Porter,Communication,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Kyle,Soria,Computer Science,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Hady,McClellan,Biology,Graduate,No,No
+Michael,Garcia Pava,Biology,Undergraduate,No,No
+Megan,Linton,ME,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Mark,Shroats,Computer Science,Undergraduate,No,"Yes - If yes, which language(s)"
+MANUELA MARIA,Ortiz,Chemistry,Graduate,No,No
+Sarah,Koontz,Materials Science and Engineering,Undergraduate,No,No
+Scott,Soria,PhD in Micribiology Immunology and Molecular Genetics,High school,No,No
+Krissa,Elliott,CIS,Graduate,No,"Yes - If yes, which language(s)"
+Alexander,Zhao,Biology,Graduate,No,"Yes - If yes, which language(s)"
+Mary Jane,Kulshrestha,"Psychology, Management",Graduate,No,"Yes - If yes, which language(s)"
+Tareq,Farr,BBA,Graduate,"Yes - If yes, please describe your research in a few sentences",
+Lilia,Rahman,Computer Science,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Marissa,Maras,,Graduate,No,"Yes - If yes, which language(s)"
+Katheirne,Hotchkiss,Human Health Sciences,Undergraduate,No,"Yes - If yes, which language(s)"
+Qinggang,Hecker,Biology,Undergraduate,"Yes - If yes, please describe your research in a few sentences",No
+Andrew,Turcios,Computer Science,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Paul,Henson,Medicine,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Chris,Sizemore,Information Technology,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Peter,Brown,Computer Science,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Jonathan,Sharp,,Graduate,No,No
+Jillian,Hammerslag,"Biomedical Engineering, Neuroscience",Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Angela,Wang,Chemistry,Graduate,No,"Yes - If yes, which language(s)"
+Kelby,,Physics,High school,"Yes - If yes, please describe your research in a few sentences",No
+Liz,Shahzad,Biostatistics,Graduate,No,"Yes - If yes, which language(s)"
+Daniel,Sedain,Computer Science,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Miguel,Vivanco,ICT,High school,No,"Yes - If yes, which language(s)"
+Qingjun,Ho,Biology,Graduate,No,No
+Vijyesh,Kadah,Quantitative and Psychometric Methods,Graduate,,"Yes - If yes, which language(s)"
+Benjamin,Valencia,Psych,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Jason,Duncan,Computer Science,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Kendra,Wu,Geography,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Mautin,Soulama,ICT,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Renee,Sharma,STEM,Graduate,No,No
+Bibek,Verma,"Mathematics, Environmental Studies and Sustainability",Undergraduate,NO,"Yes - If yes, which language(s)"
+Summer,cruz,Entomology,High school,No,"Yes - If yes, which language(s)"
+Kaschia,Gutierrez,Master in IT,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Sahand,Umenweke,Social Work,Undergraduate,No,"Yes - If yes, which language(s)"
+Bret,BHUSAL,Materials Science Engineering,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Zane,Cruser,Marketing,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Leah,Nguyen,Psychology,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+David,Rios,Plant Pathology,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Jaylene,Oh,Educational Psychology (PhD),Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Rosbelly,Naqvi,PhD in Molecular & Cellular Biochemistry,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Kelly,Edmonds,staff,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Ryan,Bonilla,Chemistry,Undergraduate,No,"Yes - If yes, which language(s)"
+Lauren,Taylor,Mechanical Engineering,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+AnnaMarie,Egbango,ICT,Graduate,No,"Yes - If yes, which language(s)"
+Oraida,Polk,Engineering,Graduate,No,"Yes - If yes, which language(s)"
+Chase,Wasson,math,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Calvin,Rocha-Rangel,ICT,Undergraduate,"Yes - If yes, please describe your research in a few sentences",No
+Jessica,Soria,"BSEE, MBA",High school,No,No
+Fernando,Cannon,Software engineering,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Erin,Hurt-Mueller,Health Services Research,Undergraduate,No,"Yes - If yes, which language(s)"
+Francesca,Hosseini,Chemistry,Undergraduate,"Yes - If yes, please describe your research in a few sentences",No
+Renato,Baustert,,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Seif,Lamichhane,Geology,Staff,"Yes - If yes, please describe your research in a few sentences",No
+Wayne,Wade,,Undergraduate,No,No
+Seth,Arnaoudova,molecular Biology,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Janelle,Ashurst,Biology,Undergraduate,No,"Yes - If yes, which language(s)"
+Elizabeth (Beth),Kirakodu,Economics,Graduate,No,"Yes - If yes, which language(s)"
+Sophia,West II,Pharmacy,Graduate,No,"Yes - If yes, which language(s)"
+Valeria,Kim,World Language Curriculum & Instruction,,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Javad,Santana,Mechanical Engineering,Graduate,No,"Yes - If yes, which language(s)"
+Kushal,Hopwood,"Phbysics, Chemistry, Mathematics",Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Luis,Barry-Hundeyin,Business Analytics,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Bhawana,Wallace,none,High school,No,No
+Dibya,Clark,High school / Steam academy,Undergraduate,No,No
+Drew,Brandon,Computer Science,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Susie,Mathias,"Chemistry, HSP",Graduate,No,No
+Naomi,Velicheti,Economics,Graduate,No,"Yes - If yes, which language(s)"
+Maia,Kercsmar,csc,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Soma,Strachan,General Business,Graduate,No,"Yes - If yes, which language(s)"
+Daniel,Eastridge,Biosystems Engineering,Undergraduate,No,"Yes - If yes, which language(s)"
+Eleanor,Cramer,None,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Mark,Hohman,Animal Science,Graduate,No,"Yes - If yes, which language(s)"
+Farhad,Joshi,ICT,Undergraduate,No,No
+Deron,Sampathi,Biology,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Hao,Yin,,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Great,Kargas,Computer science,Undergraduate,"Yes - If yes, please describe your research in a few sentences",No
+Jeremiah,Rice,Media Arts & Studies,Undergraduate,No,"Yes - If yes, which language(s)"
+John,Stiger,Computer Science,Graduate,No,"Yes - If yes, which language(s)"
+Sarah,Wallace,geology,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Simona,Harper,Chemical Engineering,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+James,Howerton,undecided,Graduate,No,No
+,Crager,Plant and soil sciences,Undergraduate,No,"Yes - If yes, which language(s)"
+Sydney,Sizemore,PhD Pharmacology & Nutritional Sciences,Graduate,No,No
+Brandon,Gregory,Computer Science,Graduate,No,"Yes - If yes, which language(s)"
+Zachary,Goyal,"BSc, MBA",Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Monica,Dickinson,Biology,Graduate,No,No
+Renata,Bakoush,Computer Science,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Joseph,Santa-Teresa,ICT,High school,No,No
+Susan,Westerfield,Ophthalmology,High school,"Yes - If yes, please describe your research in a few sentences",No
+Luke,Welch,ICT Cyber Security,Undergraduate,No,"Yes - If yes, which language(s)"
+Kim,VIANA MIGUEL,Public Health,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Patricia,Jarvis,Computer Engineering Technology,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Joshua,Lewis,biochemistry,High school,"Yes - If yes, please describe your research in a few sentences",No
+Ben,Gosper,Computer Science,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Stuart,Flynn,Finance,Undergraduate,No,"Yes - If yes, which language(s)"
+Hosna,Inam,IcT,High school,"Yes - If yes, please describe your research in a few sentences",No
+Emily,Montilla,Public Health,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Elissaveta,Jenkins,computer science,Graduate,No,No
+Whitney,Calderon,Biochemistry,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Jessica,Vitai,MBA,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Silas,Brown,Chemistry,High school,No,"Yes - If yes, which language(s)"
+Augustine,Eminli,Epidemiology,High school,No,"Yes - If yes, which language(s)"
+Promise,Sharma,Sports Medicine,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Job,Rice,Psychology,Graduate,No,"Yes - If yes, which language(s)"
+Ruben,Prieto-Valle,Biology,Undergraduate,"Yes - If yes, please describe your research in a few sentences",No
+Eera,Miller,Anthropology,High school,No,"Yes - If yes, which language(s)"
+Ameno,Elliott,Computer Science,Graduate,No,"Yes - If yes, which language(s)"
+Chai,Campbell,Sociology,Graduate,No,No
+Pradip,Schanbacher,Information Communication Technology,Undergraduate,No,"Yes - If yes, which language(s)"
+Atticus,Belisario,Ag. economics,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Prince,Wang,ICT,High school,No,"Yes - If yes, which language(s)"
+Aaron,McLeod,,Graduate,No,"Yes - If yes, which language(s)"
+Saima,Pemberton,,High school,"Yes - If yes, please describe your research in a few sentences",No
+Imani,Sisha,Computer Science,Graduate,No,"Yes - If yes, which language(s)"
+Charles,Voss,Biosystems Engineering,Undergraduate,No,"Yes - If yes, which language(s)"
+Vivienne,Allen,Biology,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Sanjay,Patterson,Biochemistry/Molecular Biology,Undergraduate,"Yes - If yes, please describe your research in a few sentences",No
+Laritzza,DeRamus,"Anthropology, Digital Mapping",Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Jeff,Kim,Nursing,Undergraduate,No,No
+Juliana,Skaggs,Linguistics,Graduate,"Yes - If yes, please describe your research in a few sentences",
+Abner,Kayembe,PharmD/MPA,Undergraduate,No,"Yes - If yes, which language(s)"
+Teshager,Herath,Biology,Graduate,No,No
+DeAndre,pope,Physics,Undergraduate,"Yes - If yes, please describe your research in a few sentences",No
+Zane,Valdez,,Graduate,No,No
+Simran,Hernandez,Biology,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Bhamiti,Qian,epidemiology and biostatistics,Graduate,No,"Yes - If yes, which language(s)"
+K,Vergara,KHP,Undergraduate,No,"Yes - If yes, please describe your research in a few sentences"
+Kevin,Mundy,high school curriculum,Undergraduate,No,No
+Juan,Rahman,Nursing,Graduate,No,"Yes - If yes, which language(s)"
+jose,Stratton,EES,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Beckett,Kane,Veterinary Science,Graduate,No,No
+Heather,Pina,Computer Science,Graduate,No,"Yes - If yes, which language(s)"
+Michael,Oriakhi,Engineering,Graduate,No,"Yes - If yes, which language(s)"
+Alexis,Green,Entomology,Graduate,No,"Yes - If yes, which language(s)"
+Daniel,Stanze,Horticulture,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Zack,Rezaei,Linguistics,Graduate,No,Yes
+Lena,Bragg,"Neuroscience, Psychology",Undergraduate,"Yes - If yes, please describe your research in a few sentences",No
+Mackenzie,Egana,STEM,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+MItch,Mansur Cardoso,Information Systems,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Jaden,Fisher,Political Science,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Antoni,Wright,N.A.,Graduate,No,"Yes - If yes, which language(s)"
+Dennis,Toro,Plant science,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+James,Cook,"Environmental Science, Industrial Hygiene, Psychology, French",High school,No,"Yes - If yes, which language(s)"
+Hansika,Li ,,Graduate,No,"Yes - If yes, which language(s)"
+Angela,Johnson,,Graduate,No,"Yes - If yes, which language(s)"
+Joshua,Kim,Health Administration,Graduate,No,"Yes - If yes, which language(s)"
+Arsh,Cashen,Chemistry,Graduate,No,No
+Elizabeth,Main,Biology,Undergraduate,No,"Yes - If yes, which language(s)"
+Tim,C,Harp instructor,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Andres,Stringer,,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Nicolas,Castro Jimenez,,Undergraduate,No,No
+Laura,Hudd,Kinesiology Health Promotion - Biomechanics,High school,No,No
+Christopher,Koirala,Finance,Undergraduate,No,"Yes - If yes, which language(s)"
+John,Cornwell,,Graduate,No,"Yes - If yes, which language(s)"
+Carl,Combs,BS Equine Science & Management,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Amy,Winstead,Agricultural and Medical Biotechnology,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Lindsey,Smith,Pharmacy,High school,"Yes - If yes, please describe your research in a few sentences",No
+Amara,Stringer,Plant and soil sciences,Graduate,No,"Yes - If yes, which language(s)"
+Omar,Reiner,Neuroscience,Graduate,No,"Yes - If yes, which language(s)"
+Ashkan,Zhang,"Mathematics, Biology",Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Luke,Casarin,not in college,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Phong,Dumes,N/A Staff,Undergraduate,"Yes - If yes, please describe your research in a few sentences",No
+Cora,Wols,none,Undergraduate,"Yes - If yes, please describe your research in a few sentences",No
+Hayley,McDonnell,Business Analytics,Graduate,No,"Yes - If yes, which language(s)"
+Colten,Puckett,Accounting,Undergraduate,"Yes - If yes, please describe your research in a few sentences",No
+Lindsey,Zierer,Geology,Graduate,No,"Yes - If yes, which language(s)"
+Maryam,Said,Linguistics,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Malini,Wingate,Information Technology,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Trupte,You,Math and science,Graduate,No,Yes
+Erik,Walters,Marketing,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Normarcus,Aaron,None,High school,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Alexandra,Tharappel,"Biology, Neuroscience",High school,"Yes - If yes, please describe your research in a few sentences",No
+Smita,Morvai,Plant pathology,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Julia,Joshi,Economics,Graduate,,No
+Linli,Cornish,ICT,High school,No,"Yes - If yes, which language(s)"
+Munib,Hossain,Plant Pathology,Undergraduate,"Yes - If yes, please describe your research in a few sentences",No
+Addison,Robbins,Computer Science,Graduate,No,"Yes - If yes, which language(s)"
+Kearstin,Heim,Computer science,Graduate,No,"Yes - If yes, which language(s)"
+Anniseh,Spinner,None currently,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Shilpa,Hudson,Cancer biology,Undergraduate,No,"Yes - If yes, which language(s)"
+Gedeon,Paudel,Biosystems & Ag Engineering,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Elisandra,Woodrum Setser,Entomology,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Joshna Sravanthi,Freeman,Computer Science,High school,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Sarah,Kurra,IT,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Rachel,Gibson-Jackson,Middle School Pre-Engineering Program,Graduate,,"Yes - If yes, which language(s)"
+Wesley,Ansari,.,Undergraduate,"Yes - If yes, please describe your research in a few sentences",No
+Holly,Ashjari,Biochemistry,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Matthew,Watts,Plant Pathology,High school,"Yes - If yes, please describe your research in a few sentences",No
+RaShaun,Adams,Computer Science,Undergraduate,No,No
+Caleb,Parker,Mol Bio,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Mary,Zafar,Science,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Fallon,Pandey,Marketing,Graduate,No,"Yes - If yes, which language(s)"
+Kiyah,Kaiser,Mechanical Engineering,Undergraduate,No,No
+Chae Won,Barczak,,High school,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Elaine,McCoy,Plant and Soil Sciences,Undergraduate,"Yes - If yes, please describe your research in a few sentences",No
+Alyce,Shin,Ag Econ,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Thomas,Snider,Biochemistry,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Eduardo,Atapattu,Biology,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Ketan,Wang,Biology,Graduate,No,"Yes - If yes, which language(s)"
+Zahidur,Winstead,Biomedical Informatics,Graduate,No,"Yes - If yes, which language(s)"
+Rena,Rahman,Biology,Graduate,No,"Yes - If yes, which language(s)"
+Sara,Machado,Engineering,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Erika,Wade,Information Systems,Graduate,No,"Yes - If yes, which language(s)"
+GYeon,Patel,Organizational Management,Graduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Harindi,Pedersen,Statistics,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Yssouf,Willis,Philosophy,High school,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Blake,Peterson,na,Undergraduate,No,"Yes - If yes, which language(s)"
+Zachary,Boettger,Biomedical Engineering,Undergraduate,"Yes - If yes, please describe your research in a few sentences",No
+Hurshel,Driehaus,Biomechanics,Undergraduate,No,"Yes - If yes, which language(s)"
+Sachina,Whitaker,PhD in Accounting,Graduate,"Yes - If yes, please describe your research in a few sentences",No
+Ji Min,McAndrew,N/a,Undergraduate,No,"Yes - If yes, which language(s)"
+Joni,Robinson,Mathematics B.S.,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Jock,Robinson,Equine Science and Management,High school,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Chloe,Zeltner,IT,High school,No,No
+Zhizhi,Butler,,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Rachel,Shrestha,,Undergraduate,No,"Yes - If yes, which language(s)"
+Sumaiya,Sabra,chromatin biology and regeneration,Undergraduate,"Yes - If yes, please describe your research in a few sentences","Yes - If yes, which language(s)"
+Elizabeth,O'Brien,Chemistry,Undergraduate,No,"Yes - If yes, which language(s)"
